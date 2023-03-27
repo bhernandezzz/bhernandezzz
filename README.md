@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @bhernandezzz, I am new to coding! I am a non-profit data analyst.
-- 👀 I’m interested in making my life easier by automating processes.
-- 🌱 I’m currently learning Python and R.
+- 👋 Hi, I’m @bhernandezzz, I am currently working in local government! I am a data analyst, performance management analyst, and project coordinator.
+- 👀 I’m interested in making my life easier by automating processes and using data science for data driven decisions.
+- 🌱 I primarly use Python and R for projects, and Tableau, PowerBI, or Esri for data visualization. I am currently learning data dimension reduction techniques.
 - 💞️ I’m looking to collaborate on any projects. Also open to low effort mentorships.
 - 📫 How to reach me: bhernanedz@gmail.com
-
-<!---
-bhernandezzz/bhernandezzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
