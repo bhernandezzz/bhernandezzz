@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @bhernandezzz, I am currently working in local government! I am a data analyst, performance management analyst, and project coordinator.
-- 👀 I’m interested in making my life easier by automating processes and using data science for data driven decisions.
-- 🌱 I primarly use Python and R for projects, and Tableau, PowerBI, or Esri for data visualization. I am currently learning data dimension reduction techniques.
-- 💞️ I’m looking to collaborate on any projects. Also open to low effort mentorships.
+- 👋 Hi, I’m @bhernandezzz, I am a data analyst and data scitenist. I am really into machine learning.
+- 🌱 I primarly use Python and will use R for projects outside of work (such as academia).
 - 📫 How to reach me: bhernanedz@gmail.com
